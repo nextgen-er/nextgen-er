@@ -103,9 +103,9 @@ Experienced Full Stack Developer with 5+ years of experience building scalable w
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-Kharbanda&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextgen-er&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Kharbanda&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nextgen-er&layout=compact)
 
 ---
 
